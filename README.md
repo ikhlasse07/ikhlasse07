@@ -13,3 +13,12 @@ My academic interests include machine learning, generative AI, natural language 
 - **Expected graduation:** 2027
 
 <br>
+## 02 — Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ikhlasse07/astrodocs-rag">
+    <img src="./astrodocs-card.png" alt="AstroDocs RAG" width="100%">
+  </a>
+</div>
+
+<br>
