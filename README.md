@@ -28,8 +28,13 @@ My academic interests include machine learning, generative AI, natural language 
 <h2>03 — GitHub Statistics</h2>
 
 <p align="center">
-  <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api?username=ikhlasse07&show_icons=true&hide_rank=true&custom_title=GitHub%20Overview&title_color=EAD5C5&text_color=FFF3E5&icon_color=C8A477&bg_color=26171F&border_color=805064&border_radius=8" alt="GitHub Stats"/>
-  <img width="49%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlasse07&layout=normal&langs_count=5&title_color=EAD5C5&text_color=FFF3E5&bg_color=26171F&border_color=805064&border_radius=8" alt="Most Used Languages"/>
+  <img width="49%" align="top"
+    src="https://github-readme-stats.vercel.app/api?username=ikhlasse07&show_icons=true&hide_rank=true&custom_title=GitHub%20Overview&card_width=400&line_height=40&text_bold=false&title_color=EAD5C5&text_color=FFF3E5&icon_color=C8A477&bg_color=26171F&border_color=805064&border_radius=8"
+    alt="GitHub Stats"/>
+
+  <img width="49%" align="top"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlasse07&layout=normal&langs_count=5&card_width=400&title_color=EAD5C5&text_color=FFF3E5&bg_color=26171F&border_color=805064&border_radius=8"
+    alt="Most Used Languages"/>
 </p>
 
 <h2>04 — Contribution Activity</h2>
