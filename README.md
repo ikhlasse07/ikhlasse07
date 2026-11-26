@@ -2,7 +2,6 @@
   <img src="./banner.png" alt="Ikhlasse Ziati — Artificial Intelligence Engineering" width="100%">
 </div>
 
-<br>
 
 <h2>01 — About Me</h2>
 
@@ -13,7 +12,6 @@ My academic interests include machine learning, generative AI, natural language 
 - **Degree:** State Engineering Degree in Artificial Intelligence
 - **Expected graduation:** 2027
 
-<br>
 
 <h2>02 — Featured Projects</h2>
 
@@ -23,7 +21,6 @@ My academic interests include machine learning, generative AI, natural language 
   </a>
 </div>
 
-<br>
 
 <h2>03 — GitHub Statistics</h2>
 
@@ -32,7 +29,6 @@ My academic interests include machine learning, generative AI, natural language 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlasse07&layout=normal&langs_count=5&card_width=400&title_color=EAD5C5&text_color=FFF3E5&bg_color=26171F&border_color=805064&border_radius=8" alt="Most Used Languages"/>
 </div>
 
-<br>
 
 <h2>04 — Contribution Activity</h2>
 
