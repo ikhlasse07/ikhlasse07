@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="96" viewBox="0 0 1000 96" fill="none">
+<title>Modern Editorial botanical divider</title>
+<defs><linearGradient id="line"><stop stop-color="#805064" stop-opacity="0"/><stop offset=".8" stop-color="#805064"/><stop offset="1" stop-color="#C8A477"/></linearGradient><linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D6B89B"/><stop offset="1" stop-color="#9B715F"/></linearGradient></defs>
+<path d="M30 48H430" stroke="url(#line)" stroke-width="1.3"/><path d="M970 48H570" stroke="url(#line)" stroke-width="1.3"/>
+<g stroke="#C8A477" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round">
+<path d="M451 67C470 54 493 49 512 39S537 24 550 20"/>
+<path d="M481 52C470 45 463 32 465 23C480 26 490 36 489 48Z" fill="#805064" fill-opacity=".55"/>
+<path d="M495 47C489 32 496 20 505 13C510 27 509 38 502 44Z" fill="#C8A477" fill-opacity=".35"/>
+<path d="M509 40C522 38 534 42 542 52C526 56 513 53 504 43Z" fill="#805064" fill-opacity=".55"/>
+<path d="M524 33C523 19 532 11 544 7C545 19 538 28 530 30Z" fill="#C8A477" fill-opacity=".45"/>
+<path d="M479 54C487 62 499 66 512 62C504 53 494 51 485 52Z" fill="#C8A477" fill-opacity=".3"/>
+<path d="M465 60C460 51 451 46 442 46C445 57 454 62 461 62Z" fill="#805064" fill-opacity=".45"/>
+</g>
+<path d="M550 67V77M545 72H555" stroke="#C8A477" stroke-width="1" stroke-linecap="round"/><circle cx="439" cy="32" r="1.7" fill="#C8A477"/>
+</svg>
