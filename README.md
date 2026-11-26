@@ -44,16 +44,12 @@ My academic interests include machine learning, generative AI, natural language 
 
 <div align="center">
 
-  <a href="LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ikhlasse-ikhlasse-107495350/">
     <img src="https://img.shields.io/badge/LinkedIn-651D32?style=for-the-badge&logo=linkedin&logoColor=FFF3E5" alt="LinkedIn"/>
   </a>
 
-  <a href="KAGGLE_URL">
+  <a href="https://www.kaggle.com/ikhlasseikhlasse">
     <img src="https://img.shields.io/badge/Kaggle-651D32?style=for-the-badge&logo=kaggle&logoColor=FFF3E5" alt="Kaggle"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-651D32?style=for-the-badge&logo=gmail&logoColor=FFF3E5" alt="Email"/>
   </a>
 
 </div>
