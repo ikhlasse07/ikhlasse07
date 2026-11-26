@@ -33,3 +33,10 @@ My academic interests include machine learning, generative AI, natural language 
 </div>
 
 <br>
+## 04 — Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ikhlasse07&bg_color=26171F&color=FFF3E5&title_color=EAD5C5&line=C7879D&point=C8A477&area=true&area_color=A75F78&border_color=805064&radius=8&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
+</div>
+
+<br>
