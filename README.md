@@ -40,18 +40,12 @@ My academic interests include machine learning, generative AI, natural language 
 </div>
 
 <br>
-## 05 — Connect
+<h2>05 — Connect</h2>
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/ikhlasse-ikhlasse-107495350/">
-    <img src="https://img.shields.io/badge/LinkedIn-651D32?style=for-the-badge&logo=linkedin&logoColor=FFF3E5" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://www.kaggle.com/ikhlasseikhlasse">
-    <img src="https://img.shields.io/badge/Kaggle-651D32?style=for-the-badge&logo=kaggle&logoColor=FFF3E5" alt="Kaggle"/>
-  </a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ikhlasse-ikhlasse-107495350/"><img src="./linkedin-button.png" width="145" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/ikhlasseikhlasse"><img src="./kaggle-button.png" width="145" alt="Kaggle"></a>
+</p>
 
 <br>
